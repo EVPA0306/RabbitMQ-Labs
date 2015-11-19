@@ -1,0 +1,5 @@
+Start server:
+sudo invoke-rc.d rabbitmq-server start
+
+Stop server:
+sudo invoke-rc.d rabbitmq-server stop
